@@ -1,0 +1,1 @@
+print("Ovo je ori projekat")
